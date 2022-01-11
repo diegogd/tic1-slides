@@ -38,7 +38,7 @@ class: text-center
 
 # ¿Qué esperamos?
 
-Crearemos un producto que responda a una necesidad.
+Crearemos! un producto que responda a una necesidad.
 
 ---
 
