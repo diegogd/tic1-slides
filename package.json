@@ -4,7 +4,7 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "dev:prog": "slidev --open ./programming.md",
-    "dev:desi": "slidev --open ./design.md",
+    "dev:desi": "slidev ./design.md",
     "remote": "slidev --open --remote",
     "export": "slidev export"
   },
