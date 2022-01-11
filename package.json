@@ -3,8 +3,8 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "dev:prog": "slidev --open ./slides/programming.md",
-    "dev:desi": "slidev --open ./slides/design.md",
+    "dev:prog": "slidev --open ./programming.md",
+    "dev:desi": "slidev --open ./design.md",
     "remote": "slidev --open --remote",
     "export": "slidev export"
   },
