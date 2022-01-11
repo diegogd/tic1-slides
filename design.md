@@ -30,15 +30,13 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
-
 layout: center
 class: text-center
-
 ---
 
 # ¿Qué esperamos?
 
-Crearemos! un producto que responda a una necesidad.
+Crearemos un producto que responda a una necesidad.
 
 ---
 
@@ -75,10 +73,8 @@ Future task2              :           prog4, after prog3, 1w
 Damos estilo a nuestra web
 
 ---
-
 layout: iframe-right
 url: https://app.brandmark.io/v3/
-
 ---
 
 # Elegimos el branding
@@ -111,10 +107,8 @@ Vigila que tu diseño esté cuidado y sea consistente.
 ```
 
 ---
-
 layout: iframe-right
 url: https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FkMeOzQaej47ohh705Sc2wO%2FAiEjemplo%3Fnode-id%3D0%253A1
-
 ---
 
 # Crear la identidad y copiar las imágenes
@@ -136,10 +130,8 @@ Llevamos la creación a figma, con ayuda de las herramientas de edición de Bran
 </style>
 
 ---
-
 layout: center
 class: text-center
-
 ---
 
 # Mañana más
