@@ -204,3 +204,4 @@ La entrega de cada proyecto es individual.
 - Pensar y proponer una idea
 - La web tendrá al menos 5 páginas diferentes (sin contar dinámicas): principal, acerca de, contacto, listado de obras, detalle de obra...
 - Se valorará que el proyecto resuelva una necesidad dentro de la escuela
+- Rellenar en TicTrack la idea que se va a desarrollar. En caso de que el proyecto no se detalle en profundidad puede rechazarse la idea.
