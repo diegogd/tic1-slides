@@ -174,6 +174,8 @@ background: https://images.unsplash.com/photo-1513467758076-4ce409980956?ixlib=r
 - Puede haber otros elementos dinámicos
 - La web tendrá al menos 5 páginas diferentes (sin contar dinámicas): principal, acerca de, contacto, listado de obras, detalle de obra...
 - Se valorará que el proyecto resuelva una necesidad dentro de la escuela
+- Puede haber proyectos repetidos en caso de ser propuestas para la escuela, al final podrá usarse el que se haya desarrollado de una forma más completa
+- Si la dinámica de trabajo individual es buena algunos proyectos pueden converger al final
 
 ---
 
