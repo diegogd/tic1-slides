@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "dev": "slidev --open",
+    "dev": "slidev --open ./presentation.md",
     "dev:prog": "slidev --open ./programming.md",
     "dev:desi": "slidev ./design.md",
     "remote": "slidev --open --remote",
