@@ -185,7 +185,7 @@ Para realizar el proyecto trabajaremos de la siguiente manera.
 
 Alternamos el ámbito de trabajo cada dos sesiones: 2 sesiones de programación y 2 de diseño
 
-![](assets/planning.jpg)
+![](/planning.jpg)
 
 ---
 

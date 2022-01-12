@@ -1,19 +1,26 @@
 # Develop
 
-To start developing execute the following command
+Use pnpm isntead of npm or yarn
 
 ```bash
-npx slidev --open --remote programming.md
+curl -f https://get.pnpm.io/v6.16.js | node - add --global pnpm
 ```
 
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+or 
 
-To start the slide show:
+```bash
+npm install -g pnpm
+```
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+## Then install dependencies with:
 
-Edit the [slides.md](./slides.md) to see the changes.
+```bash
+pnpm install
+```
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+## Build slides with:
+
+```bash
+pnpm run build
+```
+

@@ -1,21 +1,15 @@
 {
   "private": true,
   "scripts": {
-    "build": "slidev build",
-    "dev": "slidev --open ./presentation.md",
-    "dev:prog": "slidev --open ./programming.md",
-    "dev:desi": "slidev ./design.md",
-    "remote": "slidev --open --remote",
-    "export": "slidev export"
+    "build": "rimraf dist && pnpm -r run build"
   },
-  "dependencies": {
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.0.12",
     "@slidev/cli": "^0.27.20",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "playwright-chromium": "^1.17.1"
-  },
-  "name": "ticweb1",
-  "devDependencies": {
-    "@iconify-json/mdi": "^1.0.12"
+    "playwright-chromium": "^1.17.1",
+    "pnpm": "^6.17.2",
+    "rimraf": "^3.0.2"
   }
 }

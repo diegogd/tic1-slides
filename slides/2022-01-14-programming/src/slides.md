@@ -44,7 +44,7 @@ layout: center
 
 # CodeSandbox y Astro
 
-![Ejemplo](assets/codesandbox.jpg)
+![Ejemplo](/codesandbox.jpg)
 
 ---
 
@@ -103,6 +103,6 @@ class: text-center
 
 <mdi-warning/> Es muy importante que mandemos los cambios al repositorio para guardar y compartir el progreso.
 
-![Github commit](assets/github-commit.jpg)
+![Github commit](/github-commit.jpg)
 
 

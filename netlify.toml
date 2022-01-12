@@ -1,11 +1,19 @@
 [build.environment]
+  NPM_FLAGS = "--prefix=/dev/null"
   NODE_VERSION = "14"
+  PLAYWRIGHT_BROWSERS_PATH = "0"
 
 [build]
   publish = "dist"
-  command = "npm run build"
+  command = "npx pnpm i --store=node_modules/.pnpm-store && npx pnpm run build"
 
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
+  from = "/2022/presentation/*"
+  to = "/2022/presentation/index.html"
   status = 200
+
+[[redirects]]
+  from = "/2022/programming/*"
+  to = "/2022/programming/index.html"
+  status = 200
+
