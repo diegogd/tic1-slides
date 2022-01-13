@@ -105,4 +105,11 @@ class: text-center
 
 ![Github commit](/github-commit.jpg)
 
+<style>
+  img {
+    max-height: 400px;
+    margin: 0 auto
+  }
+</style>
+
 

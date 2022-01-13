@@ -5,3 +5,8 @@
 body {
     @apply bg-gray-100;   
 }
+
+.slides-grid {
+    display: grid;
+    grid-template-columns: 8em 1fr 1fr;
+}

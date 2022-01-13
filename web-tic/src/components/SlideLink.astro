@@ -1,0 +1,8 @@
+---
+const {slideDate} = Astro.props;
+---
+<div class="slides-grid p-2 odd:bg-slate-400 even:bg-slate-300">
+    <div class="date">{slideDate}</div>
+    <div class="slide"><a href={ `${slideDate}-design/` }>Diseño</a></div>
+    <div class="slide"><a href={ `${slideDate}-programming/` }>Programación</a></div>
+</div>
