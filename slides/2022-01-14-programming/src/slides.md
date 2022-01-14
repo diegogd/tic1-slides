@@ -111,5 +111,38 @@ class: text-center
     margin: 0 auto
   }
 </style>
+---
+
+# Estructura HTML
+
+HTML es un conjunto de etiquetas que nos permite estructurar la información.
+
+Un ejemplo básico de HTML es:
+
+```html
+<html>
+  <head>
+    <title>Título de la página</title>
+    <!-- Información de la página (no visible) -->
+  </head>
+  <body>
+    <!-- Cuerpo del documento (visible) -->
+  </body>
+</html>
+```
+
+---
+
+# HTML
+
+Más de 150 etiquetas usaremos unas pocas
+
+En caso de necesidad se puede consultar la información de cada etiqueta en [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
+
+Aprenderemos:
+- `<div>`: Bloques
+- `<a>`: Enlaces
+- `<sytle>`: Estilos
+- `<body>`: D.
 
 
