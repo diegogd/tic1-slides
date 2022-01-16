@@ -111,7 +111,21 @@ class: text-center
     margin: 0 auto
   }
 </style>
+
+
 ---
+layout: section
+---
+
+# Día 2
+
+Nuestra primera página
+
+Estructura HTML
+
+
+---
+
 
 # Estructura HTML
 
@@ -119,7 +133,9 @@ HTML es un conjunto de etiquetas que nos permite estructurar la información.
 
 Un ejemplo básico de HTML es:
 
-```html
+<div class="gap-4 grid grid-cols-[1fr,1fr]">
+
+```html 
 <html>
   <head>
     <title>Título de la página</title>
@@ -131,18 +147,90 @@ Un ejemplo básico de HTML es:
 </html>
 ```
 
+Este código sería el bloque básico para una página web en blanco.
+
+</div>
+
+
 ---
 
 # HTML
 
 Más de 150 etiquetas usaremos unas pocas
 
-En caso de necesidad se puede consultar la información de cada etiqueta en [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
-
 Aprenderemos:
+
+<v-clicks>
+
 - `<div>`: Bloques
-- `<a>`: Enlaces
+- `<a>`: Enlaces y atributo `href`
 - `<sytle>`: Estilos
 - `<body>`: D.
 
+</v-clicks>
 
+<!--
+Presentación de las etiquetas disponibles.
+
+- div: bloque
+- a: enlaces
+- style: estilos
+- title: nombre de página
+-->
+
+
+---
+layout: center
+class: text-center
+---
+
+<img class="mx-auto" src="https://catalog-prod-s3-gallerys3-r9e42uos3zkt.s3.amazonaws.com/production/header_images/216b8f2e9f4677058f6fd56fb733f83ffa55fd69.svg?1641833581"/>
+
+En caso de necesidad se puede consultar la información de cada etiqueta en [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
+
+
+---
+lineNumbers: false
+---
+
+# Modificación de página
+
+Un ejemplo básico de HTML es:
+
+<div class="gap-4 grid grid-cols-[1fr,1fr]">
+
+```html {none|7|8|9|none}
+<html>
+  <head>
+    <title>Primera página de ejemplo</title>
+    <!-- Información de la página (no visible) -->
+  </head>
+  <body>
+    <h1>Título visible de página</h1>
+    <p>Primer párrafo de ejemplo</p>
+    <h2>Segundo subtítulo</h2>
+    <p>Párrafo secundario</p>
+    <p><a href="https://www.google.com">Enlace</a></p>
+    <!-- Cuerpo del documento (visible) -->
+  </body>
+</html>
+```
+
+```html {none|3|2}
+<html>
+  <head>
+    <title>Primera página de ejemplo</title>
+    <!-- Información de la página (no visible) -->
+  </head>
+  <body>
+    <h1>Título visible de página</h1>
+    <p>Primer párrafo de ejemplo</p>
+    <h2>Segundo subtítulo</h2>
+    <p>Párrafo secundario</p>
+    <p><a href="https://www.google.com">Enlace</a></p>
+    <!-- Cuerpo del documento (visible) -->
+  </body>
+</html>
+```
+
+</div>
