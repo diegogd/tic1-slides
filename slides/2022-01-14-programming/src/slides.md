@@ -44,6 +44,8 @@ layout: center
 
 # CodeSandbox y Astro
 
+<div></div>
+
 ![Ejemplo](/codesandbox.jpg)
 
 ---
