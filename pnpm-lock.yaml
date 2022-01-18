@@ -11,7 +11,6 @@ importers:
       playwright-chromium: ^1.17.1
       pnpm: ^6.17.2
       rimraf: ^3.0.2
-      vue-particles: ^1.0.9
     devDependencies:
       '@iconify-json/mdi': 1.0.12
       '@slidev/cli': 0.27.20_playwright-chromium@1.17.2
@@ -20,9 +19,11 @@ importers:
       playwright-chromium: 1.17.2
       pnpm: 6.25.1
       rimraf: 3.0.2
-      vue-particles: 1.0.9
 
   slides/2022-01-12-presentation/src:
+    specifiers: {}
+
+  slides/2022-01-14-design/src:
     specifiers: {}
 
   slides/2022-01-14-programming/src:
@@ -4381,10 +4382,6 @@ packages:
     engines: {node: '>= 0.8'}
     dev: true
 
-  /particles.js/2.0.0:
-    resolution: {integrity: sha1-IThsQyjWx/lngKIB6W7t/AnHNvY=}
-    dev: true
-
   /path-browserify/1.0.1:
     resolution: {integrity: sha512-b7uo2UCUOYZcnF/3ID0lulOJi/bafxa1xPe7ZPsammBSpjSWQkjNxlt635YGS2MiR9GjvuXCtz2emr3jbsz98g==}
     dev: true
@@ -5819,14 +5816,6 @@ packages:
       vue: 3.2.26
     dev: true
 
-  /vue-particles/1.0.9:
-    resolution: {integrity: sha1-KdnMK+AVffHAqH7DuWyW8zJ5Um4=}
-    engines: {node: '>= 4.0.0', npm: '>= 3.0.0'}
-    dependencies:
-      particles.js: 2.0.0
-      vue: 2.6.14
-    dev: true
-
   /vue-router/4.0.12_vue@3.2.26:
     resolution: {integrity: sha512-CPXvfqe+mZLB1kBWssssTiWg4EQERyqJZes7USiqfW9B5N2x+nHlnsM1D3b5CaJ6qgCvMmYJnz+G0iWjNCvXrg==}
     peerDependencies:
@@ -5834,10 +5823,6 @@ packages:
     dependencies:
       '@vue/devtools-api': 6.0.0-beta.21.1
       vue: 3.2.26
-    dev: true
-
-  /vue/2.6.14:
-    resolution: {integrity: sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ==}
     dev: true
 
   /vue/3.2.26:
