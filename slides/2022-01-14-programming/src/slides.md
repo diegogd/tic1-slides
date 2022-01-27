@@ -264,7 +264,7 @@ Es importante cerrar bien las etiquetas o te dará errores la generación de la 
 
 ---
 
-# Sección `<header>`
+# Sección `<head>`
 
 Nos permite definir parámetros de la página, como el idioma, el formato (móvil, escritorio, televisión o impresora) y permite definir información importante para los buscadores, como el nombre de la web y una descripción del sitio web.
 
