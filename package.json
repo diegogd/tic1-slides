@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "build": "rimraf dist && pnpm -r run build"
+    "build": "rimraf dist && cd web-tic && pnpm build && cd .. && pnpm -r run build"
   },
   "devDependencies": {
     "@iconify-json/mdi": "^1.0.14",
