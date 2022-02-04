@@ -24,8 +24,7 @@ drawings:
 # Programación de CSS
 
 ---
-layout: iframe-right
-url: https://51zwg.sse.codesandbox.io/home
+layout: two-cols
 ---
 
 # Tarea anterior
@@ -35,6 +34,26 @@ Construcción de una web con 4 páginas enlazadas entre sí.
 Es posible acceder al código completo del proyecto tal y como debería estar en el repositorio:
 
 [https://github.com/diegogd/tic-end-session1](https://github.com/diegogd/tic-end-session1)
+
+::right::
+
+![](/web_session1.jpg)
+
+---
+
+# Cambio de CodeSandbox a Stackblitz
+
+[Instrucciones](https://youtu.be/peWQEfJ1l0U) enviadas por correo electrónico para transferir tu proyecto.
+
+Puede usarse este enlace para comenzar a trabajar desde la versión de github de como debería estar el proyecto.
+
+[https://stackblitz.com/github/diegogd/tic-end-session1](https://stackblitz.com/github/diegogd/tic-end-session1)
+
+
+### Motivos del cambio:
+- Problemas al recuperar trabajo previo.
+- Complicación en la integración de github, más sencillo con Stackblitz.
+- Problemas al refrescar los cambios en el visor.
 
 ---
 layout: quote
